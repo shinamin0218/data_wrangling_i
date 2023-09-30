@@ -1,2 +1,3 @@
 # data_wrangling_i
-data_wraggling
+
+this is the repository for data wrangling i, part of P8105
